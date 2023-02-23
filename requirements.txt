@@ -2,3 +2,7 @@ streamlit
 pyChatGPT 
 selenium
 PyVirtualDisplay
+streamlit-chat==0.0.2.1
+requests
+openai
+revChatGPT
