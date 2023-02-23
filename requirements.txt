@@ -1,3 +1,4 @@
 streamlit
 pyChatGPT 
 selenium
+PyVirtualDisplay
